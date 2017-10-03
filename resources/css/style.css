@@ -26,20 +26,20 @@ a {
 	font-size: 18px;
 	color: White;
 }
-.home {
+#home {
 	background-image: url("../images/the-flatiron-building.png");
 }
-.work {
+#work {
 	background-image: url("../images/the-flatiron-building.png");
 }
-.about {
+#about {
 	color: Gray;
 	text-align: left;
 }
-.work h3 {
+#work h3 {
 	color: White;
 }
-.about p {
+#about p {
 	font-size: 11px;
 	color: White;
 	background-color: dimgray;
